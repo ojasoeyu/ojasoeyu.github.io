@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojasoeyu.github.io/sitemap_index.ojasoeyu
